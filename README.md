@@ -8,3 +8,5 @@ Personal Projects
  Recommendation system based on RBM model made with help of pytorch.
 3. Image classification\
  Classification of images using CNN model made with use of keras.
+4. RNN\
+ Predicting google stock prices trend using LSTM model.
